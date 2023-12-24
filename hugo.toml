@@ -19,7 +19,7 @@ theme = 'hugo-elate-theme'
   [params.navigation]
     brand = "Aline Alcaraz"
     home = "Início"
-    work = "Trabalho"
+    work = "Conheça a Aline"
     testimonials = "Testemunhos"
     services = "Serviços"
     about = "Sobre"
@@ -47,44 +47,13 @@ theme = 'hugo-elate-theme'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
-  [params.intro]
-
-  [[params.intro.item]]
-    title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Get In Touch"
-    icon = "icon-bulb"
-    img = "img_7.jpg"
-
-  [[params.intro.item]]
-    title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Click Me"
-    icon = "icon-wrench"
-    img = "img_8.jpg"
-
-  [[params.intro.item]]
-    title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Why us?"
-    icon = "icon-rocket"
-    img = "img_10.jpg"
-
-  [params.intro.video]
-    enable = true
-    title = "Watch the video"
-    icon = "icon-play2"
-    url = "https://vimeo.com/channels/staffpicks/93951774"
-
+  #[params.intro]
 
   # Work section
   [params.work]
     enable = true
-    title = "Work"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Conheça a Aline"
+    description = "Aline Alcaraz Murillo, advogada há 12 anos, formada pela Universidade São Judas Tadeu, com três especializações, dentre elas uma em Direito da Mulher."
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
