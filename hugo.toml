@@ -1,6 +1,6 @@
 baseURL = 'https://alinealcaraz.com.br/'
 languageCode = 'pt-br'
-title = 'Aline Alcaraz'
+title = 'Aline Alcaraz Murillo'
 theme = 'hugo-elate-theme'
 
 [params]
@@ -17,7 +17,7 @@ theme = 'hugo-elate-theme'
 
   # Navigation
   [params.navigation]
-    brand = "Aline Alcaraz"
+    brand = "Aline Alcaraz Murillo"
     home = "Início"
     work = "Conheça a Aline"
     testimonials = "Testemunhos"
