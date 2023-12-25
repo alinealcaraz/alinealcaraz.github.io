@@ -47,54 +47,25 @@ theme = 'hugo-elate-theme'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
-  #[params.intro]
+  [params.intro]
+    enable = false
 
   # Work section
   [params.work]
     enable = true
     title = "Conheça a Aline"
     description = "Aline Alcaraz Murillo, advogada há 12 anos, formada pela Universidade São Judas Tadeu, com três especializações, dentre elas uma em Direito da Mulher."
-    footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+    #footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
-    [[params.work.row]]
-      img = "work_1.jpg"
-      alt = "Image2"
-      title = "Project 1"
-      subtitle = "Branding"
-
-    [[params.work.row]]
-      img = "work_2.jpg"
-      alt = "Image2"
-      title = "Project 2"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_3.jpg"
-      alt = "Image3"
-      title = "Project 3"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_4.jpg"
-      alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_5.jpg"
-      alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
+    #[[params.work.row]]
+    #  img = "work_1.jpg"
+    #  alt = "Image2"
+    #  title = "Project 1"
+    #  subtitle = "Branding"
 
   # Testimonials section
   [params.testimonials]
-    enable = true
+    enable = false
     title = "Testimonials"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
@@ -116,12 +87,9 @@ theme = 'hugo-elate-theme'
       img = "person3.jpg"
       alt = "Person3"
     
-
-
-
   # Services section
   [params.services]
-    enable = true
+    enable = false
     title = "Services"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
@@ -146,7 +114,7 @@ theme = 'hugo-elate-theme'
 
   # About section
   [params.about]
-    enable = true
+    enable = false
     title = "About"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
@@ -188,7 +156,7 @@ theme = 'hugo-elate-theme'
 
   # Counters section
   [params.counters]
-    enable = true
+    enable = false
     title = "Stats"
     background = "full_image_1.jpg"
 
@@ -234,21 +202,21 @@ theme = 'hugo-elate-theme'
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
-        ["icon-phone", "(123) 465-6789"],
-        ["icon-envelope", "info@freehtml5.co"],
-        ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
+        ["icon-home", "São Paulo, SP"],
+        ["icon-phone", "(11) 97355-6932"],
+        ["icon-envelope", "alinealcaraz.adv@gmail.com"],
+        ["icon-globe", '<a href="https://alinealcaraz.com.br/" target="_blank">alinealcaraz.com.br</a>']
       ]
 
-    name = "Name"
+    name = "Nome"
     email = "Email"
-    phone = "Phone"
-    message = "Message"
-    button = "Send message"
+    phone = "Celular"
+    message = "Mensagem"
+    button = "Enviar mensagem"
 
   # Footer section
   [params.footer]
-    enable = true
+    enable = false
     copyright = '&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
     links = [
         ["icon-twitter", "#twitter"],
