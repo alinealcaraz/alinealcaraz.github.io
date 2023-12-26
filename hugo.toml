@@ -194,14 +194,13 @@ theme = 'hugo-elate-theme'
   # Contact section
   [params.contact]
     enable = true
-    map = true
-    form = true
+    map = false
+    form = false
     title = "Entre em contato"
     description = "Fale comigo para agendar uma consulta."
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "São Paulo, SP"],
         ["icon-phone", "(11) 97355-6932"],
         ["icon-envelope", "alinealcaraz.adv@gmail.com"],
         ["icon-globe", '<a href="https://alinealcaraz.com.br/" target="_blank">alinealcaraz.com.br</a>']
