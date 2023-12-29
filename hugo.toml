@@ -201,9 +201,9 @@ theme = 'hugo-elate-theme'
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-whatsapp", "(11) 92007-9706"],
+        ["icon-whatsapp", "[(11) 92007-9706](https://wa.me/11920079706)"],
         ["icon-envelope", "alinealcaraz.adv@gmail.com"],
-        ["icon-linkedin", '<a href="https://www.linkedin.com/in/alinealcaraz/" target="_blank">Perfil profissional</a>']
+        ["icon-linkedin", "[Perfil Profissional](https://www.linkedin.com/in/alinealcaraz/)"]
       ]
 
     name = "Nome"
