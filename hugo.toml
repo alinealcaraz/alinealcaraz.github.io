@@ -41,7 +41,7 @@ theme = 'hugo-elate-theme'
   
   # Hero section
   [params.hero]
-    title = "A Pensão Alimentícia é um Direito"
+    title = "Eu não sou livre enquanto alguma mulher não o for, mesmo quando as correntes dela forem muito diferentes das minhas."
     subtitle = 'A assistência jurídica que você precisa em um escritório especializado no atendimento de mulheres com perspectiva de gênero e orientação feminista.'
  
   # Intro section
