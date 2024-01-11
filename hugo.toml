@@ -3,8 +3,6 @@ languageCode = 'pt-br'
 title = 'Aline Alcaraz Murillo'
 theme = 'hugo-elate-theme'
 
-disableKinds = ["home", "taxonomy"]
-
 [params]
   
   custom_css = ["css/aline_style.css"]
