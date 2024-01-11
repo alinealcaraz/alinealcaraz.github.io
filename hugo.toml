@@ -41,7 +41,7 @@ theme = 'hugo-elate-theme'
   
   # Hero section
   [params.hero]
-    title = "Ninguém se empodera individualmente se o grupo não estiver empoderado.\nJoice Berth"
+    title = "\"Ninguém se empodera individualmente se o grupo não estiver empoderado.\" - Joice Berth"
     subtitle = 'A assistência jurídica que você precisa em um escritório especializado no atendimento de mulheres com perspectiva de gênero e orientação feminista.'
  
   # Intro section
