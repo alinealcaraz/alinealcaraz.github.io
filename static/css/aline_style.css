@@ -8,46 +8,21 @@ a:hover, a:active, a:focus {
   outline: none;
 }
 
-#fh5co-header.navbar-fixed-top #navbar li a:hover {
-  color: var(--aline-suave);
-}
-
 #fh5co-header.navbar-fixed-top .navbar-brand {
   color: var(--aline-suave);
 }
-
+#fh5co-header.navbar-fixed-top #navbar li a:hover {
+  color: var(--aline-suave);
+}
 #fh5co-header.navbar-fixed-top #navbar li.active a {
-  background: transparent;
-  background: none;
   color: var(--aline-suave);
 }
 #fh5co-header.navbar-fixed-top #navbar li.active a span:before {
-  visibility: visible;
-  -webkit-transform: scaleX(1);
-  transform: scaleX(1);
   background-color: var(--aline-suave);
-}
-
-@media screen and (max-width: 768px) {
-  #fh5co-header .navbar-brand {
-      color: var(--aline-suave) !important;
-  }
-
-  #fh5co-header #navbar li a:hover {
-    color: var(--aline-suave) !important;
-  }
-  
-  #fh5co-header #navbar li.active a {
-    color: var(--aline-suave) !important;
-  }
 }
 
 .fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
   background: var(--aline-suave);
-}
-.fh5co-nav-toggle:hover, .fh5co-nav-toggle:focus, .fh5co-nav-toggle:active {
-  outline: none;
-  border-bottom: none !important;
 }
 .fh5co-nav-toggle i {
   color: var(--aline-suave);
@@ -89,4 +64,18 @@ a:hover, a:active, a:focus {
 
 .section-heading h2:after {
   background: var(--aline-suave);
+}
+
+@media screen and (max-width: 768px) {
+  #fh5co-header .navbar-brand {
+      color: var(--aline-suave) !important;
+  }
+
+  #fh5co-header #navbar li a:hover {
+    color: var(--aline-suave) !important;
+  }
+  
+  #fh5co-header #navbar li.active a {
+    color: var(--aline-suave) !important;
+  }
 }
