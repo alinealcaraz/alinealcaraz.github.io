@@ -3,9 +3,12 @@
   --aline-escuro: #6b3757;
 }
 
+a {
+  color: var(--aline-suave);
+}
+
 a:hover, a:active, a:focus {
   color: var(--aline-suave);
-  outline: none;
 }
 
 #fh5co-header.navbar-fixed-top .navbar-brand {
