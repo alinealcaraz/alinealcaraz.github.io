@@ -20,8 +20,8 @@ theme = 'hugo-elate-theme'
     home = "Início"
     work = "Conheça a Aline"
     testimonials = "Testemunhos"
-    services = "Serviços"
-    about = "Sobre"
+    services = "Áreas de Atuação"
+    about = "Atendimento Sem Fronteiras"
     contact = "Contato"
 
     # You can add custom links before or after the default links
@@ -113,45 +113,9 @@ theme = 'hugo-elate-theme'
 
   # About section
   [params.about]
-    enable = false
-    title = "About"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-
-    [[params.about.item]]
-      name = "Jean Smith"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person1.jpg"
-      alt = "Person1"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
-      ]
-
-    [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person2.jpg"
-      alt = "Person2"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
-      ]
-
-    [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]      
+    enable = true
+    title = "Atendimento sem fronteiras"
+    description = "Entendendo que o deslocamento dentro da cidade pode ser extremamente inconveniente para a rotina das mulheres e, especialmente, para as mulheres mães, bem como diante das facilidades trazidas pelo processo eletrônico - onde até as audiências podem ser realizadas de maneira remota - optamos por implementar um *escritório virtual e sem fronteiras*, assim, além de reduzir custos, conseguimos oferecer nossos serviços para você que precisa de uma advogada feminista não importa em que estado do Brasil esteja. Mas, caso deseje, nossa base territorial é na cidade de São Paulo e estamos disponíveis para atendê-la enquanto tomamos um café <3"
 
   # Counters section
   [params.counters]
