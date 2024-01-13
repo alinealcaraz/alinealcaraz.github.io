@@ -3,24 +3,19 @@
   --aline-escuro: #6b3757;
 }
 
-a {
-  color: var(--aline-suave);
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s;
-}
 a:hover, a:active, a:focus {
   color: var(--aline-suave);
   outline: none;
 }
 
-#fh5co-header.navbar-fixed-top .navbar-brand {
-  color: var(--aline-suave) !important;
-}
-
 #fh5co-header.navbar-fixed-top #navbar li a:hover {
   color: var(--aline-suave);
 }
+
+#fh5co-header.navbar-fixed-top .navbar-brand {
+  color: var(--aline-suave);
+}
+
 #fh5co-header.navbar-fixed-top #navbar li.active a {
   background: transparent;
   background: none;
@@ -33,31 +28,34 @@ a:hover, a:active, a:focus {
   background-color: var(--aline-suave);
 }
 
-#fh5co-header .navbar-brand {
-  color: var(--aline-suave) !important;
-}
-
-.fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
-    background: var(--aline-suave);
-  }
-  .fh5co-nav-toggle:hover, .fh5co-nav-toggle:focus, .fh5co-nav-toggle:active {
-    outline: none;
-    border-bottom: none !important;
-  }
-  .fh5co-nav-toggle i {
-    color: var(--aline-suave);
-    background: var(--aline-suave);
-  }
-  .fh5co-nav-toggle i::before, .fh5co-nav-toggle i::after {
-    background: var(--aline-suave);
+@media screen and (max-width: 768px) {
+  #fh5co-header .navbar-brand {
+      color: var(--aline-suave) !important;
   }
 
   #fh5co-header #navbar li a:hover {
-    color: #b86397 !important;
+    color: var(--aline-suave) !important;
   }
+  
   #fh5co-header #navbar li.active a {
-    color: #b86397 !important;
+    color: var(--aline-suave) !important;
   }
+}
+
+.fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
+  background: var(--aline-suave);
+}
+.fh5co-nav-toggle:hover, .fh5co-nav-toggle:focus, .fh5co-nav-toggle:active {
+  outline: none;
+  border-bottom: none !important;
+}
+.fh5co-nav-toggle i {
+  color: var(--aline-suave);
+  background: var(--aline-suave);
+}
+.fh5co-nav-toggle i::before, .fh5co-nav-toggle i::after {
+  background: var(--aline-suave);
+}
 
 #fh5co-home .gradient {
   /* IE9, iOS 3.2+ */
