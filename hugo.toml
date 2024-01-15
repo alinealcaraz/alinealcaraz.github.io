@@ -41,8 +41,8 @@ theme = 'hugo-elate-theme'
   
   # Hero section
   [params.hero]
-    title = "\"Ninguém se empodera individualmente se o grupo não estiver empoderado.\" - Joice Berth"
-    subtitle = 'A assistência jurídica que você precisa em um escritório especializado no atendimento de mulheres com perspectiva de gênero e orientação feminista.'
+    title = "A assistência jurídica que você precisa em um escritório especializado no atendimento de mulheres e que atua com perspectiva de gênero e orientação feminista."
+    subtitle = '“Ninguém se empodera individualmente se o grupo não estiver empoderado.” (Joice Berth) - Sabemos que o meio jurídico, além de inacessível em muitos aspectos, é também ambiente de reprodução de muitas violências estruturais; infelizmente, não é incomum que mulheres, ao buscarem o abrigo da Lei e do Judiciário para suas demandas, se deparem com profissionais insensíveis às suas dores e incapazes de compreender a realidade de que partem. Por isso, nosso objetivo é atuar com excelência e de forma comprometida e coerente com o que acreditamos, sabendo que o empoderamento só será real quando for para todas..'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -115,7 +115,7 @@ theme = 'hugo-elate-theme'
   [params.about]
     enable = true
     title = "Atendimento sem fronteiras"
-    description = "Entendendo que o deslocamento dentro da cidade pode ser extremamente inconveniente para a rotina das mulheres e, especialmente, para as mulheres mães, bem como diante das facilidades trazidas pelo processo eletrônico - onde até as audiências podem ser realizadas de maneira remota - optamos por implementar um *escritório virtual e sem fronteiras*, assim, além de reduzir custos, conseguimos oferecer nossos serviços para você que precisa de uma advogada feminista não importa em que estado do Brasil esteja. Mas, caso deseje, nossa base territorial é na cidade de São Paulo e estamos disponíveis para atendê-la enquanto tomamos um café <3"
+    description = "Nós sabemos que o deslocamento dentro da cidade pode ser extremamente inconveniente para a rotina das mulheres e, especialmente, para as mulheres mães. Assim, diante das facilidades trazidas pelo processo eletrônico - onde até as audiências podem ser realizadas de maneira remota - optamos por implementar um *escritório virtual e sem fronteiras* o que, além de reduzir custos, nos permite oferecer nossos serviços para você que precisa de uma consultoria jurídica qualificada e deseja ser ouvida com empatia e respeito por uma advogada feminista, não importa em que estado do Brasil você esteja. Ainda assim, caso deseje, nossa base territorial é na cidade de São Paulo e estamos disponíveis para atendê-la enquanto tomamos um café <3"
 
   # Counters section
   [params.counters]
