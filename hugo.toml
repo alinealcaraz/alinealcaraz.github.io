@@ -41,8 +41,9 @@ theme = 'hugo-elate-theme'
   
   # Hero section
   [params.hero]
-    title = "A assistência jurídica que você precisa em um escritório especializado no atendimento de mulheres e que atua com perspectiva de gênero e orientação feminista."
-    subtitle = '“Ninguém se empodera individualmente se o grupo não estiver empoderado.” (Joice Berth) - Sabemos que o meio jurídico, além de inacessível em muitos aspectos, é também ambiente de reprodução de muitas violências estruturais; infelizmente, não é incomum que mulheres, ao buscarem o abrigo da Lei e do Judiciário para suas demandas, se deparem com profissionais insensíveis às suas dores e incapazes de compreender a realidade de que partem. Por isso, nosso objetivo é atuar com excelência e de forma comprometida e coerente com o que acreditamos, sabendo que o empoderamento só será real quando for para todas..'
+    title = "A assistência jurídica que você precisa em um escritório especializado no atendimento de mulheres."
+    subtitle = '“Ninguém se empodera individualmente se o grupo não estiver empoderado.” (Joice Berth) - Sabemos que o meio jurídico, além de inacessível em muitos aspectos, é também ambiente de reprodução de muitas violências estruturais; infelizmente, não é incomum que mulheres, ao buscarem o abrigo da Lei e do Judiciário para suas demandas, se deparem com profissionais insensíveis às suas dores e incapazes de compreender a realidade de que partem. Por isso, nosso objetivo é atuar a partir das lentes de gênero, raça e classe a fim de ofertar um serviço acolhedor e de excelência para mulheres que desejam se ver livres e lutar pelos seus direitos e o de suas crias.'
+    
  
   # Intro section
   # Available icons: http://simplelineicons.com/
