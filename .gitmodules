@@ -3,4 +3,4 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/hugo-elate-theme"]
 	path = themes/hugo-elate-theme
-	url = https://github.com/saey55/hugo-elate-theme.git
+	url = git@github.com:victoraldecoa/hugo-elate-theme.git
