@@ -15,6 +15,13 @@ a:hover, a:active, a:focus {
   color: var(--aline-suave);
 }
 
+.aline-web-avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 #fh5co-header.navbar-fixed-top .navbar-brand {
   color: var(--aline-suave);
 }
