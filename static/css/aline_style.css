@@ -11,6 +11,15 @@ a {
   color: var(--aline-suave);
 }
 
+#fh5co-contact, #fh5co-about {
+  padding: 1em 0;
+}
+
+.section-heading {
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
 a:hover, a:active, a:focus {
   color: var(--aline-suave);
 }
