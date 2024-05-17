@@ -95,13 +95,14 @@ theme = 'hugo-elate-theme'
 
     [[params.services.item]]
       title = "DIREITO DAS FAMÍLIAS"
-      description = "* Mediação extrajudicial\n* Divórcio\n* Reconhecimento e dissolução de união estável\n* Partilha de bens\n* Declaração (Investigação) de paternidade\n* Guarda e convivência (visitas) de filhos e plano parental\n* Alimentos\n* Tutela e curatela\n* Reconhecimento de maternidade e paternidade socioafetivas"
+      description = "* Mediação extrajudicial\n* Divórcio\n* Reconhecimento e dissolução de união estável\n* Partilha de bens\n* Declaração (Investigação) de paternidade\n* Guarda e convivência (visitas) de filhos e plano parental\n* Alimentos\n* Tutela e curatela\n* Reconhecimento de maternidade e paternidade socioafetivas\n* Contrato de namoro"
       icon = "icon-home"
 
     [[params.services.item]]
       title = "DIREITO DA CRIANÇA E DO ADOLESCENTE"
       description = "* Direito infracional (adolescentes acusados/as de ato infracional)\n* Direito à educação"
       icon = "icon-child"
+	  
     [[params.services.item]]
       title = "DIREITO DA CONSUMIDORA"
       description = "* Ações de indenização por danos materiais e morais"
@@ -168,7 +169,8 @@ theme = 'hugo-elate-theme'
     details = [
         ["icon-whatsapp", "[(11) 92007-9706](https://wa.me/11920079706)"],
         ["icon-envelope", "alinealcaraz.adv@gmail.com"],
-        ["icon-linkedin", "[Perfil Profissional](https://www.linkedin.com/in/alinealcaraz/)"]
+        ["icon-linkedin", "[Perfil Profissional](https://www.linkedin.com/in/alinealcaraz/)"],
+		["icon-instagram", "[@alinealcaraz.adv](https://instagram.com/alinealcaraz.adv/)"]
       ]
 
     name = "Nome"
